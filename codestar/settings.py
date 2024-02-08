@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "https://django-blog-2024-8d35ee568685.herokuapp.com",
+    "django-blog-2024-8d35ee568685.herokuapp.com",
     "localhost",
     "127.0.0.1",
 ]
