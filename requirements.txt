@@ -7,11 +7,13 @@ cffi==1.16.0
 charset-normalizer==3.3.0
 click==8.1.7
 colorama==0.4.6
+crispy-bootstrap5==0.7
 cryptography==42.0.2
 defusedxml==0.7.1
 dj-database-url==0.5.0
-Django==3.2.23
+Django==5.0.2
 django-allauth==0.60.1
+django-crispy-forms==2.1
 django-summernote==0.8.20.0
 Flask==3.0.1
 Flask-SQLAlchemy==2.5.1
@@ -44,6 +46,7 @@ six==1.16.0
 SQLAlchemy==1.4.46
 sqlparse==0.4.4
 tqdm==4.66.1
+tzdata==2024.1
 urllib3==2.0.6
 webencodings==0.5.1
 Werkzeug==3.0.1
